@@ -26,7 +26,7 @@
 
 <a id="about"></a>
 
-## 🎮 About Me
+##  About Me
 
 ```yaml
 name: Seif Ilyas
@@ -44,7 +44,7 @@ currently:
 
 ---
 
-## 🕹️ Tech Stack
+##  Tech Stack
 
 <p align="center">
 
@@ -91,15 +91,8 @@ currently:
 
 <a id="stats"></a>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seifilyas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&icon_color=BB86FC&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifilyas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&text_color=ffffff"/>
-
-</p>
 
 <p align="center">
 
@@ -109,7 +102,7 @@ currently:
 
 ---
 
-## 🌌 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
 
@@ -121,7 +114,7 @@ currently:
 
 <a id="contact"></a>
 
-## 🌐 Connect
+##  Connect
 
 <p align="center">
 
