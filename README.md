@@ -1,9 +1,10 @@
-<p align="center">
-  <img src="./banner.png" width="100%">
-</p>
+
 <h1 align="center">Hi, I'm Seif Ilyas 👾</h1>
 <h3 align="center">Software Engineering Student • Full-Stack Developer</h3>
 
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=2600&pause=900&color=E9C6FF&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student;Full-Stack+Developer;Java+%7C+JavaScript+%7C+TypeScript+%7C+Python;Building+real+world+projects"/>
 </p>
