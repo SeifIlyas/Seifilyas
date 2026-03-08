@@ -95,7 +95,7 @@ currently:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seifilyas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&icon_color=BB86FC&text_color=ffffff"/>
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifilyas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&text_color=ffffff"/>
 
