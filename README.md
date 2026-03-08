@@ -26,7 +26,7 @@
 
 <a id="about"></a>
 
-## 🎮 About Me
+##  About Me
 
 ```yaml
 name: Seif Ilyas
@@ -44,7 +44,7 @@ currently:
 
 ---
 
-## 🕹️ Tech Stack
+##  Tech Stack
 
 <p align="center">
 
@@ -76,7 +76,7 @@ currently:
 
 <a id="projects"></a>
 
-## 🚀 Projects
+##  Projects
 
 - **HireSpace**  
   Job advertisement portal with employer dashboards, job listings and applications.
@@ -91,7 +91,7 @@ currently:
 
 <a id="stats"></a>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 
@@ -109,7 +109,7 @@ currently:
 
 ---
 
-## 🌌 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
 
@@ -121,7 +121,7 @@ currently:
 
 <a id="contact"></a>
 
-## 🌐 Connect
+##  Connect
 
 <p align="center">
 
