@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Seif Ilyas 👾</h1>
+<h1 align="center">Hi, I'm Seif Ilyas </h1>
 <h3 align="center">Software Engineering Student • Full-Stack Developer</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-## 🎮 About Me
+##  About Me
 
 ```yaml
 name: Seif Ilyas
@@ -21,16 +21,16 @@ speciality:
   - Web Projects
   - UI / UX
   - Software Engineering
-style: "pixel, arcade, retro-game inspired UI"
 currently:
   - building real world projects
   - improving my technical skills
   - creating polished developer work
+  - working on university projects
 ```
 
 ---
 
-## 🕹️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-3b285c?style=for-the-badge&logo=openjdk&logoColor=f8d6ff" />
@@ -48,7 +48,7 @@ currently:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seifilyas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1028&title_color=f0b6ff&icon_color=ff8fcf&text_color=fff0ff" />
@@ -61,7 +61,7 @@ currently:
 
 ---
 
-## 🌌 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=seifilyas&bg_color=1a1028&color=f0b6ff&line=ff8fcf&point=fceaff&area=true&hide_border=true" width="95%" />
@@ -69,7 +69,7 @@ currently:
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://github.com/seifilyas">
