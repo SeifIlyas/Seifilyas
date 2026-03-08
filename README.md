@@ -70,16 +70,16 @@ currently:
 
 <p align="center">
 
-<a href="https://github.com/seifilyas/Klip">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=seifilyas&repo=Klip&theme=tokyonight"/>
+<a href="https://github.com/seifilyas">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=seifilyas&repo=HireSpace&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/seifilyas/Team17P6">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=seifilyas&repo=Team17P6&theme=tokyonight"/>
+<a href="https://github.com/seifilyas">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=seifilyas&repo=AI-Stream-Highlight&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/seifilyas/SDD">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=seifilyas&repo=SDD&theme=tokyonight"/>
+<a href="https://github.com/seifilyas">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=seifilyas&repo=BD25-Crowd-System&theme=tokyonight"/>
 </a>
 
 </p>
