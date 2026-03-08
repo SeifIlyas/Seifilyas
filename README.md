@@ -1,21 +1,17 @@
+<h1 align="center">Hi, I'm Seif Ilyas 👾</h1>
+<h3 align="center">Software Engineering Student • Full-Stack Developer</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=2800&pause=900&color=F6D1FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Seif+Ilyas;Software+Engineering+Student;Full-Stack+Developer;Building+real+world+projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=2600&pause=900&color=E9C6FF&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student;Full-Stack+Developer;Java+%7C+JavaScript+%7C+TypeScript+%7C+Python;Building+real+world+projects"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:2a1639,50:6f4ca5,100:e78ac3&text=SEIF%20ILYAS&fontColor=FDF4FF&fontSize=34&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=68" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/START-4b2d6b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STATS-6b3fa0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PROJECTS-c06bb3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CONTACT-f09ac7?style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=SEIF%20ILYAS&fontSize=38&fontAlignY=38&color=0:0f0c29,50:302b63,100:e07aaf&fontColor=fceaff&desc=Full-Stack%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=58&animation=fadeIn" width="100%" />
 </p>
 
 ---
 
-## 🎮 Player Profile
+## 🎮 About Me
 
 ```yaml
 name: Seif Ilyas
@@ -27,8 +23,8 @@ focus:
   - Software Engineering
 currently:
   - building real world projects
-  - improving my technical skills
-  - creating polished developer work
+  - improving technical skills
+  - creating polished developer projects
 ```
 
 ---
@@ -36,29 +32,17 @@ currently:
 ## 🕹️ Tech Stack
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Java-3B245C?style=for-the-badge&logo=openjdk&logoColor=F7D6FF"/>
-
-<img src="https://img.shields.io/badge/JavaScript-3B245C?style=for-the-badge&logo=javascript&logoColor=FFE082"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3B245C?style=for-the-badge&logo=typescript&logoColor=8FD3FF"/>
-
-<img src="https://img.shields.io/badge/Node.js-3B245C?style=for-the-badge&logo=node.js&logoColor=B9F6A5"/>
-
-<img src="https://img.shields.io/badge/MySQL-3B245C?style=for-the-badge&logo=mysql&logoColor=9ED8FF"/>
-
-<img src="https://img.shields.io/badge/Python-3B245C?style=for-the-badge&logo=python&logoColor=FFD76E"/>
-
-<img src="https://img.shields.io/badge/HTML5-3B245C?style=for-the-badge&logo=html5&logoColor=FF9C7A"/>
-
-<img src="https://img.shields.io/badge/CSS3-3B245C?style=for-the-badge&logo=css3&logoColor=8FC9FF"/>
-
-<img src="https://img.shields.io/badge/Git-3B245C?style=for-the-badge&logo=git&logoColor=FF8A80"/>
-
-<img src="https://img.shields.io/badge/GitHub-3B245C?style=for-the-badge&logo=github&logoColor=FDF4FF"/>
-
-<img src="https://img.shields.io/badge/PHP-3B245C?style=for-the-badge&logo=php&logoColor=D7C6FF"/>
-
+<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=BB86FC"/>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=5ED3F3"/>
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=7CFC00"/>
+<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4DB6FF"/>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F1502F"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=AEB2D5"/>
 </p>
 
 ---
@@ -66,17 +50,12 @@ currently:
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seifilyas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1028&title_color=F4B6FF&icon_color=FF8FCF&text_color=FFF4FF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifilyas&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1028&title_color=F4B6FF&text_color=FFF4FF"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seifilyas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&icon_color=BB86FC&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifilyas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&text_color=ffffff"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=seifilyas&theme=tokyonight&hide_border=true&background=1A1028&ring=F4B6FF&fire=FF8FCF&currStreakLabel=FDF4FF"/>
-
+<img src="https://streak-stats.demolab.com?user=seifilyas&theme=tokyonight&hide_border=true&background=0D1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC"/>
 </p>
 
 ---
@@ -84,35 +63,24 @@ currently:
 ## 🌌 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=seifilyas&bg_color=1A1028&color=F4B6FF&line=FF8FCF&point=FDF4FF&area=true&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=seifilyas&bg_color=0d1117&color=BB86FC&line=9D4EDD&point=F72585&area=true&hide_border=true" width="95%"/>
 </p>
 
 ---
 
-## 🔗 Connect
+## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://github.com/seifilyas">
-<img src="https://img.shields.io/badge/GitHub-2A1639?style=for-the-badge&logo=github&logoColor=FDF4FF"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=BB86FC"/>
 </a>
-
 <a href="https://www.linkedin.com/in/seifilyas/">
-<img src="https://img.shields.io/badge/LinkedIn-2A1639?style=for-the-badge&logo=linkedin&logoColor=F4B6FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=BB86FC"/>
 </a>
-
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=seifilyas&label=PROFILE+VIEWS&color=C77DFF&style=for-the-badge"/>
-
-</p>
+---
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:2a1639,50:6f4ca5,100:e78ac3&section=footer"/>
-
+<img src="https://komarev.com/ghpvc/?username=seifilyas&label=Profile%20Views&color=bb86fc&style=for-the-badge"/>
 </p>
