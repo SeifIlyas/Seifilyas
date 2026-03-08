@@ -51,12 +51,15 @@ currently:
 ##  GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seifilyas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1028&title_color=f0b6ff&icon_color=ff8fcf&text_color=fff0ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifilyas&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1028&title_color=f0b6ff&text_color=fff0ff" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=seifilyas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1028&title_color=f0b6ff&icon_color=ff8fcf&text_color=fff0ff" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifilyas&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1028&title_color=f0b6ff&text_color=fff0ff" height="180"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=seifilyas&theme=tokyonight&hide_border=true&background=1A1028&ring=F0B6FF&fire=FF8FCF&currStreakLabel=FCEAFF" />
+<img src="https://streak-stats.demolab.com?user=seifilyas&theme=tokyonight&hide_border=true&background=1A1028&ring=F0B6FF&fire=FF8FCF&currStreakLabel=FCEAFF" />
 </p>
 
 ---
