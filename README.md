@@ -95,14 +95,6 @@ currently:
 
 <p align="center">
 
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifilyas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&text_color=ffffff"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://streak-stats.demolab.com?user=seifilyas&theme=tokyonight&hide_border=true&background=0D1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC"/>
 
 </p>
