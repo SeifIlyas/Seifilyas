@@ -26,7 +26,7 @@
 
 <a id="about"></a>
 
-##  About Me
+## 🎮 About Me
 
 ```yaml
 name: Seif Ilyas
@@ -44,30 +44,20 @@ currently:
 
 ---
 
-##  Tech Stack
+## 🕹️ Tech Stack
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=BB86FC"/>
-
 <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-
 <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=5ED3F3"/>
-
 <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=7CFC00"/>
-
 <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4DB6FF"/>
-
 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-
 <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-
 <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-
 <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F1502F"/>
-
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=AEB2D5"/>
 
 </p>
@@ -76,22 +66,37 @@ currently:
 
 <a id="projects"></a>
 
-##  Projects
+# 🧩 Project Inventory
 
-- **HireSpace**  
-  Job advertisement portal with employer dashboards, job listings and applications.
+<p align="center">
 
-- **AI Stream Highlight Generator**  
-  Uses AI to detect highlight moments from long gaming streams automatically.
+<a href="https://github.com/seifilyas">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=seifilyas&repo=HireSpace&theme=tokyonight"/>
+</a>
 
-- **BD25 Crowd Engagement System**  
-  Machine learning driven audience interaction platform for live events.
+<a href="https://github.com/seifilyas">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=seifilyas&repo=AI-Stream-Highlight&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/seifilyas">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=seifilyas&repo=BD25-Crowd-System&theme=tokyonight"/>
+</a>
+
+</p>
 
 ---
 
 <a id="stats"></a>
 
-##  GitHub Stats
+# 📊 Player Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seifilyas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&icon_color=BB86FC&text_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifilyas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&text_color=ffffff"/>
+
+</p>
 
 <p align="center">
 
@@ -101,7 +106,7 @@ currently:
 
 ---
 
-##  Contribution Graph
+# 🌌 Contribution Graph
 
 <p align="center">
 
@@ -113,7 +118,7 @@ currently:
 
 <a id="contact"></a>
 
-##  Connect
+# 🌐 Connect
 
 <p align="center">
 
