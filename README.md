@@ -76,7 +76,7 @@ currently:
 
 <a id="projects"></a>
 
-## 🚀 Projects
+##  Projects
 
 - **HireSpace**  
   Job advertisement portal with employer dashboards, job listings and applications.
